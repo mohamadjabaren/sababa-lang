@@ -1,0 +1,14 @@
+GNU GENERAL PUBLIC LICENSE Version 3
+Copyright (C) 2026 Mohamad Jabaren
+
+PLACEHOLDER — replace this file with the full GPL-3.0 text.
+
+Get it with:
+  curl -o LICENSE https://www.gnu.org/licenses/gpl-3.0.txt
+
+Or, on GitHub: Add file -> Create new file -> type "LICENSE" -> click
+"Choose a license template" -> pick "GNU General Public License v3.0".
+
+Reason: sababa.py imports PyQt5, which is distributed under the GPL. Software
+that links PyQt5 must itself be GPL-compatible, so MIT is not an option for
+this repository as it currently stands.

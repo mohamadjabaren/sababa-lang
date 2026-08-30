@@ -1,0 +1,4 @@
+# The compiler and interpreter use only the Python standard library.
+# The only dependency is the IDE.
+
+PyQt5>=5.15        # SababaCharm IDE (sababa.py) only — not needed for compiler.py
