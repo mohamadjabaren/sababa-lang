@@ -202,7 +202,7 @@ sababa-lang/
 ├── codegen.py            AST -> C source (visitor pattern)
 ├── evaluator.py          AST -> executed directly (visitor pattern)
 ├── stdlib/               libraries written in SababaLang (interpreter only)
-├── example/             sample programs
+├── examples/             sample programs
 └── tests/                pytest suite
 ```
 
