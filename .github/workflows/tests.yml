@@ -9,4 +9,4 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install pytest
-      - run: python -m pytest tests -v
+      - run: py -m test_pipeline.py -v
