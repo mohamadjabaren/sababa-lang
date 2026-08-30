@@ -85,7 +85,7 @@ Example files in `examples/` are named to make this explicit.
 Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/sababa-lang.git
+git clone https://github.com/mohamadjabaren/sababa-lang.git
 cd sababa-lang
 ```
 
